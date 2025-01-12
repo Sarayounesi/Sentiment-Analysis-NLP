@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Persian Emotion Detection using ArmanEmo Dataset
 
 
  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/> Sentiments and opinions in online texts are highly important, and accurately detecting sentiments in the Persian language is a challenging task. In this project, we aim to perform sentiment analysis on Persian texts using pre-trained deep learning models.
